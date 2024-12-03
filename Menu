@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Escuela XYZ</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Bienvenidos a Escuela XYZ</h1>
+        <nav>
+            <ul>
+                <li><a href="#inicio">Inicio</a></li>
+                <li><a href="#informacion">Información Académica</a></li>
+                <li><a href="#admisiones">Admisiones</a></li>
+                <li><a href="#noticias">Noticias y Eventos</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="inicio">
+            <h2>Inicio</h2>
+            <p>Bienvenidos a nuestra institución educativa. Aquí encontrarás toda la información sobre nuestra escuela.</p>
+        </section>
+
+        <section id="informacion">
+            <h2>Información Académica</h2>
+            <p>Ofrecemos educación de calidad desde nivel preescolar hasta bachillerato. Contamos con actividades extracurriculares como música, deportes y más.</p>
+        </section>
+
+        <section id="admisiones">
+            <h2>Admisiones</h2>
+            <p>El proceso de inscripción está abierto. Consulta los requisitos y documentos necesarios para inscribirte.</p>
+        </section>
+
+        <section id="noticias">
+            <h2>Noticias y Eventos</h2>
+            <p>Mantente al día con nuestras actividades, eventos y logros destacados.</p>
+        </section>
+
+        <section id="contacto">
+            <h2>Contacto</h2>
+            <p>Ubicación: Calle Ficticia #123, Ciudad XYZ</p>
+            <p>Teléfono: (123) 456-7890</p>
+            <p>Email: contacto@escuelaxyz.com</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Escuela XYZ. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
